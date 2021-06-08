@@ -1,4 +1,4 @@
-1.download
+1.download the zip
 2. npm install
 3. npm run dev
 
