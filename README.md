@@ -2,6 +2,7 @@
 2. npm install or npm i
 3. npm run dev
 4. open in your developer tools
+
 Note:
 "dependencies": {
     "bootstrap": "^5.0.1",
