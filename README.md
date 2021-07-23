@@ -1,7 +1,14 @@
 1.download the zip
-2. npm install
+2. npm install or npm i
 3. npm run dev
-
+4. open in your developer tools
+Note:
+"dependencies": {
+    "bootstrap": "^5.0.1",
+    "next": "^10.2.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
